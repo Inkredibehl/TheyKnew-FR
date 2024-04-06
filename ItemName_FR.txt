@@ -1,0 +1,6 @@
+ItemName_FR = {
+    ItemName_TheyKnew.Zomboxivir = "Ampoule de Zomboxivir",
+	ItemName_TheyKnew.MysteriousHazmat = "Mystérieuse Combinaison NBC",
+	ItemName_TheyKnew.MysteriousSatchel = "Sacoche Tactique",
+	ItemName_TheyKnew.Zomboxycycline = "Pillules de Zomboxycycline",
+}

@@ -1,0 +1,6 @@
+Sandbox_FR = {
+	Sandbox_TheyKnew = "They Knew",
+	Sandbox_TheyKnew_SpawnChance = "Chance d'apparition sur 1000000",
+	Sandbox_TheyKnew_LootChance = "Chance de drop sur 100",
+	Sandbox_TheyKnew_LootChanceZomboxycycline = "Chance de drop sur 100",
+}
