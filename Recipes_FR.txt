@@ -1,0 +1,3 @@
+Recipes_FR = {
+	Recipe_Take_Zomboxycycline_Pills = "Prendre les pillules de Zomboxycycline"
+}
